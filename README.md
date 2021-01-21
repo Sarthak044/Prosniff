@@ -4,3 +4,5 @@ This is a network traffic Sniffer to sniff out usernames and passwords or even s
 
 The usage is simple. 
 It will ask you the interface to sniff on. just enter it and the sniffer will start. If that interface is not there or wrong the sniffer will not work.
+
+![alt text](https://github.com/Sarthak044/Prosniff/img/main/sniff_proof?raw=true)
