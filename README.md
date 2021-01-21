@@ -33,3 +33,7 @@ for the issue:
   https://github.com/secdev/scapy/issues/2470
 and for the solution for the issue: 
   https://github.com/secdev/scapy/pull/2471/commits/55f2e735e8b7e41152b95051f4c16dc3eadcb6d6
+  
+  
+  This is how the tool looks 
+  ![Screenshot](https://github.com/Sarthak044/Prosniff/blob/main/img/prosniff.jpg)
